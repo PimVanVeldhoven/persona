@@ -3,6 +3,7 @@ body{
     background-size: 1440px,700px;
     background-color: #000000;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
     margin: 0px;
 }
 #pageContainer 
@@ -18,7 +19,7 @@ body{
 float:left;
 }
 #introText{
-margin-left: 540px;
+margin-left: 500px;
 }
 #finalFantasy{
     float: left;
@@ -26,4 +27,28 @@ margin-left: 540px;
     width: 220px;
     margin-left: -700px;
     margin-top: 40px;
+}
+#cyberpunk{
+    float: left;
+    height: 280px;
+    width: 160px;
+    margin: 40px 0px 0px 160px;
+}
+#sabaton{
+    float: left;
+    height: 170px;
+    width: 170px;
+    margin: -50px 120px 0px 80px;
+}
+#pfp{
+    float: left;
+    height: 300px;
+    width: 140px;
+    margin: -180px 0px 0px 200px;
+}
+#cLang{
+    float: left;
+    height: 100px;
+    width: 200px;
+    margin: 0px 60px 0px -380px;
 }
