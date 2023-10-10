@@ -1,0 +1,29 @@
+body{
+    background-image:url(Images/thunderstorm-lightnings-dark.jpg);
+    background-size: 1440px,700px;
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+#pageContainer 
+{
+    width: 1440px;
+    margin: 0px auto 0px auto;
+    background-color: #5d5d5d;
+}
+.reset{
+    clear: both;
+ }
+#mainHeading{
+float:left;
+}
+#introText{
+margin-left: 540px;
+}
+#finalFantasy{
+    float: left;
+    height: 80px;
+    width: 220px;
+    margin-left: -700px;
+    margin-top: 40px;
+}
