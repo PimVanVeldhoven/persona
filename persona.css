@@ -38,17 +38,29 @@ margin-left: 500px;
     float: left;
     height: 170px;
     width: 170px;
-    margin: -50px 120px 0px 80px;
+    margin: -140px 120px 0px 80px;
 }
 #pfp{
     float: left;
     height: 300px;
     width: 140px;
-    margin: -180px 0px 0px 200px;
+    margin: -180px 0px 0px 240px;
 }
 #cLang{
     float: left;
     height: 100px;
     width: 200px;
     margin: 0px 60px 0px -380px;
+}
+#shadow{
+    float: left;
+    height: 200px;
+    width: 350px;
+    margin: 40px 0px 0px 160px;
+}
+#initialD{
+float: left;
+height: 300px;
+width: 200px;
+margin: -160px 200px 0px 90px;
 }
